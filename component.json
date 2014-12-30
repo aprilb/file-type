@@ -1,0 +1,13 @@
+{
+  "name": "file-type",
+  "version": "2.0.1",
+  "description": "Detect the file type of a Buffer/Uint8Array",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "development": {
+    "ava": "0.0.4",
+    "read-chunk": "1.0.0"
+  }
+}
